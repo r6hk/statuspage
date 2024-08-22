@@ -4,18 +4,20 @@
     "url": "https://rennen.dev",
     "icon": "https://icons.duckduckgo.com/ip3/rennen.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2007,
-    "timeDay": 1361,
-    "timeWeek": 2007,
-    "timeMonth": 2007,
-    "timeYear": 2007,
-    "dailyMinutesDown": {}
+    "time": 1935,
+    "timeDay": 1345,
+    "timeWeek": 1935,
+    "timeMonth": 1935,
+    "timeYear": 1935,
+    "dailyMinutesDown": {
+      "2024-08-22": 0
+    }
   },
   {
     "name": "Image Hosting",

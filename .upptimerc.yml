@@ -22,9 +22,9 @@ status-website:
   cname: status.r6.hk
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Rennen 的 Status Page
   introTitle: "[**Upptime**](https://github.com/upptime/upptime/) is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Rennen 的 Status Page，使用 [**Upptime**](https://github.com/upptime/upptime/) 搭建，通知频道：[/t.me/status_page_notify]https://t.me/status_page_notify()
+  introMessage: Rennen 的 Status Page，使用 [**Upptime**](https://github.com/upptime/upptime/) 搭建，[Telegram 通知频道](https://t.me/status_page_notify)
   navbar:
     - title: Status
       href: /

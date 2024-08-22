@@ -30,6 +30,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  userContentBaseUrl: https://mirror.ghproxy.com/https://raw.githubusercontent.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

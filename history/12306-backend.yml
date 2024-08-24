@@ -1,7 +1,7 @@
 url: https://12306.r6.hk/api/ticket-service/station/all
-status: down
-code: 504
-responseTime: 10115
-lastUpdated: 2024-08-24T04:25:26.039Z
+status: up
+code: 200
+responseTime: 208
+lastUpdated: 2024-08-24T04:40:58.343Z
 startTime: 2024-08-20T01:37:15.155Z
 generator: Upptime <https://github.com/upptime/upptime>

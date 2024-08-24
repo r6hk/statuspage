@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rennen.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 1807,
     "timeDay": 1378,
     "timeWeek": 1807,
@@ -96,17 +96,19 @@
     "url": "https://12306.r6.hk/api/ticket-service/station/all",
     "icon": "https://icons.duckduckgo.com/ip3/12306.r6.hk.ico",
     "slug": "12306-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 226,
-    "timeWeek": 206,
-    "timeMonth": 206,
-    "timeYear": 206,
-    "dailyMinutesDown": {}
+    "time": 1197,
+    "timeDay": 5171,
+    "timeWeek": 1197,
+    "timeMonth": 1197,
+    "timeYear": 1197,
+    "dailyMinutesDown": {
+      "2024-08-24": 0
+    }
   }
 ]

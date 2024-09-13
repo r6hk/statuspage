@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rennen.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 1556,
     "timeDay": 1263,
     "timeWeek": 1407,
@@ -79,10 +79,10 @@
     "url": "https://12306.r6.hk",
     "icon": "https://icons.duckduckgo.com/ip3/12306.r6.hk.ico",
     "slug": "12306-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
@@ -90,25 +90,28 @@
     "timeWeek": 392,
     "timeMonth": 393,
     "timeYear": 393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-13": 1
+    }
   },
   {
     "name": "12306 Backend",
     "url": "https://12306.r6.hk/api/ticket-service/station/all",
     "icon": "https://icons.duckduckgo.com/ip3/12306.r6.hk.ico",
     "slug": "12306-backend",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 545,
     "timeDay": 179,
     "timeWeek": 205,
     "timeMonth": 545,
     "timeYear": 545,
     "dailyMinutesDown": {
+      "2024-09-13": 0,
       "2024-08-24": 16
     }
   }

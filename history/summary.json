@@ -63,19 +63,19 @@
     "url": "https://sub.r6.hk",
     "icon": "https://icons.duckduckgo.com/ip3/sub.r6.hk.ico",
     "slug": "sub-converter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 328,
-    "timeWeek": 248,
-    "timeMonth": 281,
-    "timeYear": 272,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 522,
+    "timeDay": 10050,
+    "timeWeek": 2688,
+    "timeMonth": 909,
+    "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-10-28": 0
+      "2024-10-28": 12
     }
   },
   {

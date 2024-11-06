@@ -46,10 +46,10 @@
     "url": "https://file.r6.hk",
     "icon": "https://icons.duckduckgo.com/ip3/file.r6.hk.ico",
     "slug": "file-browser",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
@@ -57,16 +57,18 @@
     "timeWeek": 331,
     "timeMonth": 279,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-06": 2
+    }
   },
   {
     "name": "Sub Converter",
     "url": "https://sub.r6.hk",
     "icon": "https://icons.duckduckgo.com/ip3/sub.r6.hk.ico",
     "slug": "sub-converter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +77,9 @@
     "timeWeek": 288,
     "timeMonth": 891,
     "timeYear": 498,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-06": 0
+    }
   },
   {
     "name": "12306 Frontend",
@@ -83,11 +87,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/12306.r6.hk.ico",
     "slug": "12306-frontend",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 415,
     "timeDay": 915,
     "timeWeek": 443,
@@ -104,11 +108,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/12306.r6.hk.ico",
     "slug": "12306-backend",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.99%",
+    "uptimeYear": "98.01%",
     "time": 338,
     "timeDay": 221,
     "timeWeek": 191,

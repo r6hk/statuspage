@@ -49,9 +49,9 @@
     "slug": "file-browser",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.84%",
     "time": 508,
     "timeDay": 12902,
@@ -59,7 +59,6 @@
     "timeMonth": 1060,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2024-11-27": 12,
       "2024-11-06": 228
     }
   },

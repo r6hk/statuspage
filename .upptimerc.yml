@@ -3,8 +3,9 @@ owner: r6hk # Your GitHub organization or username, where this repository lives
 repo: statuspage # The name of this repository
 
 sites:
-  - name: Blog
+  - name: My Blog
     url: $SECRET_SITE
+    icon: https://icons.duckduckgo.com/ip3/rennen.dev.ico
   - name: Image Hosting
     url: https://img.rennen.dev
   - name: File Browser

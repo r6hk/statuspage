@@ -1,10 +1,10 @@
 [
   {
     "name": "Blog",
-    "url": "https://rennen.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/rennen.dev.ico",
+    "url": "$SECRET_SITE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "98.38%",
     "uptimeWeek": "99.25%",
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 836,
-    "timeWeek": 899,
-    "timeMonth": 916,
-    "timeYear": 898,
+    "time": 899,
+    "timeDay": 931,
+    "timeWeek": 915,
+    "timeMonth": 920,
+    "timeYear": 899,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 465,
-    "timeDay": 214,
-    "timeWeek": 258,
-    "timeMonth": 1084,
-    "timeYear": 465,
+    "time": 464,
+    "timeDay": 242,
+    "timeWeek": 259,
+    "timeMonth": 1058,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2024-11-06": 228
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 468,
-    "timeDay": 200,
-    "timeWeek": 233,
-    "timeMonth": 513,
-    "timeYear": 468,
+    "time": 467,
+    "timeDay": 227,
+    "timeWeek": 236,
+    "timeMonth": 505,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2024-11-06": 226
     }

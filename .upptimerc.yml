@@ -4,7 +4,7 @@ repo: statuspage # The name of this repository
 
 sites:
   - name: Blog
-    url: https://rennen.dev
+    url: $SECRET_SITE
   - name: Image Hosting
     url: https://img.rennen.dev
   - name: File Browser

@@ -22,9 +22,9 @@
     "url": "https://img.rennen.dev",
     "icon": "https://icons.duckduckgo.com/ip3/img.rennen.dev.ico",
     "slug": "image-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1021,
     "timeMonth": 990,
     "timeYear": 922,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 0
+    }
   },
   {
     "name": "File Browser",

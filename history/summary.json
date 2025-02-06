@@ -22,19 +22,19 @@
     "url": "https://img.rennen.dev",
     "icon": "https://icons.duckduckgo.com/ip3/img.rennen.dev.ico",
     "slug": "image-hosting",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 922,
-    "timeDay": 1044,
-    "timeWeek": 1021,
-    "timeMonth": 990,
-    "timeYear": 922,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "57.97%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "99.75%",
+    "time": 921,
+    "timeDay": 887,
+    "timeWeek": 985,
+    "timeMonth": 982,
+    "timeYear": 921,
     "dailyMinutesDown": {
-      "2025-02-06": 0
+      "2025-02-06": 605
     }
   },
   {

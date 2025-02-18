@@ -6,10 +6,10 @@ sites:
   - name: My Blog
     url: $SECRET_SITE
     icon: https://icons.duckduckgo.com/ip3/rennen.dev.ico
-  - name: Image Hosting
-    url: https://img.rennen.dev
   - name: My Blog (use CDN)
     url: https://rennen.dev
+  - name: Image Hosting
+    url: https://img.rennen.dev
   - name: File Browser
     url: https://file.r6.hk
   - name: Sub Converter

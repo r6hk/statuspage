@@ -22,9 +22,9 @@
     "url": "https://img.rennen.dev",
     "icon": "https://icons.duckduckgo.com/ip3/img.rennen.dev.ico",
     "slug": "image-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "99.77%",
@@ -34,6 +34,7 @@
     "timeMonth": 962,
     "timeYear": 920,
     "dailyMinutesDown": {
+      "2025-02-18": 0,
       "2025-02-06": 605
     }
   },

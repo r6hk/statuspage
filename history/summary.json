@@ -22,19 +22,19 @@
     "url": "https://rennen.dev",
     "icon": "https://icons.duckduckgo.com/ip3/rennen.dev.ico",
     "slug": "my-blog-use-cdn",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1984,
-    "timeDay": 1984,
-    "timeWeek": 1984,
-    "timeMonth": 1984,
-    "timeYear": 1984,
+    "status": "up",
+    "uptime": "97.77%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "97.77%",
+    "time": 1845,
+    "timeDay": 1845,
+    "timeWeek": 1845,
+    "timeMonth": 1845,
+    "timeYear": 1845,
     "dailyMinutesDown": {
-      "2025-02-19": 0
+      "2025-02-19": 31
     }
   },
   {

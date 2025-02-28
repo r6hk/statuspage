@@ -14,10 +14,10 @@ sites:
     url: https://file.r6.hk
   - name: Sub Converter
     url: https://sub.r6.hk
-   - name: 12306 Frontend
-     url: https://12306.r6.hk
-   - name: 12306 Backend
-     url: https://12306.r6.hk/api/ticket-service/station/all
+  - name: 12306 Frontend
+    url: https://12306.r6.hk
+  - name: 12306 Backend
+    url: https://12306.r6.hk/api/ticket-service/station/all
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

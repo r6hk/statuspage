@@ -104,27 +104,29 @@
     "url": "https://12306.r6.hk",
     "icon": "https://icons.duckduckgo.com/ip3/12306.r6.hk.ico",
     "slug": "12306-frontend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 416,
     "timeDay": 430,
     "timeWeek": 423,
     "timeMonth": 406,
     "timeYear": 416,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 2
+    }
   },
   {
     "name": "12306 Backend",
     "url": "https://12306.r6.hk/api/ticket-service/station/all",
     "icon": "https://icons.duckduckgo.com/ip3/12306.r6.hk.ico",
     "slug": "12306-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -133,6 +135,8 @@
     "timeWeek": 244,
     "timeMonth": 236,
     "timeYear": 319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 0
+    }
   }
 ]

@@ -10,10 +10,10 @@ sites:
     url: https://rennen.dev
   - name: Image Hosting
     url: https://img.rennen.dev
-  - name: File Browser
-    url: https://file.r6.hk
-  - name: Sub Converter
-    url: https://sub.r6.hk
+  # - name: File Browser
+  #   url: https://file.r6.hk
+  # - name: Sub Converter
+  #   url: https://sub.r6.hk
   # - name: 12306 Frontend
   #   url: https://12306.r6.hk
   # - name: 12306 Backend

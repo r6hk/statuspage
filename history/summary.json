@@ -4,19 +4,20 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/rennen.dev.ico",
     "slug": "my-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 794,
-    "timeDay": 780,
-    "timeWeek": 713,
-    "timeMonth": 749,
-    "timeYear": 787,
+    "timeDay": 603,
+    "timeWeek": 677,
+    "timeMonth": 739,
+    "timeYear": 786,
     "dailyMinutesDown": {
-      "2025-09-10": 60
+      "2025-09-10": 60,
+      "2026-06-24": 0
     }
   },
   {

@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 768,
-    "timeDay": 744,
-    "timeWeek": 743,
-    "timeMonth": 708,
+    "timeDay": 741,
+    "timeWeek": 733,
+    "timeMonth": 707,
     "timeYear": 753,
     "dailyMinutesDown": {
       "2026-06-24": 96
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rennen.dev.ico",
     "slug": "my-blog-use-cdn",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 721,
-    "timeDay": 623,
-    "timeWeek": 618,
-    "timeMonth": 635,
-    "timeYear": 696,
+    "timeDay": 626,
+    "timeWeek": 621,
+    "timeMonth": 637,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2026-06-18": 190
     }
@@ -52,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 600,
     "timeDay": 587,
-    "timeWeek": 566,
+    "timeWeek": 562,
     "timeMonth": 603,
     "timeYear": 602,
     "dailyMinutesDown": {}
